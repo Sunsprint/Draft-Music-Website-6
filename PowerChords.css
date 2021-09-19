@@ -469,7 +469,7 @@
 }
 
 .u-section-4 .u-accordion-pane-1 {
-  min-height: 139px;
+  min-height: 299px;
   background-image: none;
   margin-right: auto;
   margin-left: auto;
@@ -522,6 +522,7 @@
 
 .u-section-4 .u-text-3 {
   line-height: 1.8;
+  font-size: 1.125rem;
   margin: 20px 0 0 9px;
 }
 
@@ -538,7 +539,7 @@
 }
 
 .u-section-4 .u-accordion-pane-3 {
-  min-height: 139px;
+  min-height: 299px;
   background-image: none;
   margin-right: auto;
   margin-left: auto;
@@ -564,7 +565,7 @@
 }
 
 .u-section-4 .u-accordion-pane-4 {
-  min-height: 139px;
+  min-height: 299px;
   background-image: none;
   margin-right: auto;
   margin-left: auto;

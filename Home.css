@@ -61,25 +61,25 @@
 
 
 .u-section-1 {
-  background-image: url("images/er.jpg");
+  background-image: url("np://user.desktop.nicepage.com/Site_13751995/images/er.jpg?rand=a3d9");
   background-position: 50% 50%;
-  min-height: 691px;
+  min-height: 800px;
 }
 
 .u-section-1 .u-shape-1 {
   width: 359px;
   height: 359px;
   background-image: none;
-  margin: 0 auto 0 calc(((100% - 1140px) / 2) + -146px);
+  margin: 60px auto 0 calc(((100% - 1140px) / 2) + -146px);
 }
 
 .u-section-1 .u-layout-wrap-1 {
-  width: calc(((100% - 1140px) / 2) + 1140px);
-  margin: -419px 0 -60px auto;
+  width: 1220px;
+  margin: -419px 0 0 auto;
 }
 
 .u-section-1 .u-layout-cell-1 {
-  min-height: 691px;
+  min-height: 800px;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -118,9 +118,9 @@
 }
 
 .u-section-1 .u-image-1 {
-  min-height: 691px;
+  min-height: 800px;
   background-image: url("images/Copyof121217-3203a.jpg");
-  background-position: 50% 23.07%;
+  background-position: 50% 16.06%;
 }
 
 .u-section-1 .u-container-layout-2 {
@@ -138,16 +138,15 @@
   }
 
   .u-section-1 .u-layout-wrap-1 {
-    width: calc(((100% - 940px) / 2) + 940px);
-    margin-bottom: 0;
+    width: 940px;
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 570px;
+    min-height: 616px;
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 570px;
+    min-height: 616px;
     background-position: 50% 0%;
   }
 }
@@ -165,7 +164,7 @@
   }
 
   .u-section-1 .u-layout-wrap-1 {
-    width: calc(((100% - 720px) / 2) + 720px);
+    width: 720px;
     margin-top: -305px;
     margin-bottom: -11px;
   }
@@ -195,7 +194,7 @@
   .u-section-1 .u-shape-1 {
     width: 291px;
     height: 291px;
-    margin-top: 0;
+    margin-top: 60px;
     margin-left: calc(((100% - 540px) / 2) + -116px);
   }
 
@@ -295,19 +294,19 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 646px;
+  min-height: 894px;
 }
 
 .u-section-2 .u-shape-1 {
   width: 366px;
   height: 366px;
   background-image: none;
-  margin: 60px -128px 0 auto;
+  margin: 62px -50px 0 auto;
 }
 
 .u-section-2 .u-layout-wrap-1 {
   width: 1017px;
-  margin: -332px auto 50px;
+  margin: -334px auto 50px;
 }
 
 .u-section-2 .u-layout-cell-1 {
@@ -477,11 +476,17 @@
 
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 608px;
+    min-height: 924px;
+  }
+
+  .u-section-2 .u-shape-1 {
+    margin-top: 67px;
+    margin-right: -36px;
   }
 
   .u-section-2 .u-layout-wrap-1 {
     width: 940px;
+    margin-top: -339px;
   }
 
   .u-section-2 .u-layout-cell-1 {

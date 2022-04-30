@@ -58,8 +58,6 @@
 }
 
 
-
-
 .u-section-1 {
   min-height: 110px;
 }
@@ -84,7 +82,7 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 {
+   .u-section-1 {
     min-height: 136px;
   }
 
@@ -109,7 +107,7 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-1 {
+   .u-section-1 {
     min-height: 126px;
   }
 
@@ -134,7 +132,7 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-1 {
+   .u-section-1 {
     min-height: 106px;
   }
 
@@ -158,7 +156,7 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-1 {
+   .u-section-1 {
     min-height: 98px;
   }
 
@@ -179,7 +177,7 @@
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 50px;
-}.u-section-3 {
+} .u-section-3 {
   min-height: 369px;
 }
 
@@ -198,7 +196,7 @@
 }
 
 .u-section-3 .u-image-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/ocoicecream20180913_204420.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/ocoicecream20180913_204420-16.jpg");
   background-position: 50% 50%;
 }
 
@@ -231,7 +229,7 @@
 }
 
 .u-section-3 .u-image-2 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/140427-9820.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/140427-9820-18.jpg");
   background-position: 50% 50%;
 }
 
@@ -314,7 +312,7 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-3 {
+   .u-section-3 {
     min-height: 513px;
   }
 
@@ -347,7 +345,7 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-3 {
+   .u-section-3 {
     min-height: 446px;
   }
 
@@ -370,7 +368,7 @@
   .u-section-3 .u-text-3 {
     font-size: 1.5rem;
   }
-}.u-section-4 {
+} .u-section-4 {
   background-image: none;
   min-height: 50vw;
 }
@@ -580,7 +578,7 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-4 {
+   .u-section-4 {
     min-height: 2057px;
   }
 
@@ -618,7 +616,7 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-4 {
+   .u-section-4 {
     min-height: 1744px;
   }
 
@@ -634,7 +632,7 @@
     margin-top: -660px;
     margin-bottom: 30px;
   }
-}.u-section-5 {
+} .u-section-5 {
   background-image: none;
   min-height: 723px;
 }
@@ -726,7 +724,7 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-5 {
+   .u-section-5 {
     min-height: 777px;
   }
 
@@ -786,7 +784,7 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-5 {
+   .u-section-5 {
     min-height: 1622px;
   }
 
@@ -833,7 +831,7 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-5 {
+   .u-section-5 {
     min-height: 1297px;
   }
 

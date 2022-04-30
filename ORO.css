@@ -58,8 +58,6 @@
 }
 
 
-
-
 .u-section-1 {
   min-height: 128px;
 }
@@ -82,7 +80,7 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 {
+   .u-section-1 {
     min-height: 136px;
   }
 
@@ -106,7 +104,7 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-1 {
+   .u-section-1 {
     min-height: 126px;
   }
 
@@ -130,7 +128,7 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-1 {
+   .u-section-1 {
     min-height: 106px;
   }
 
@@ -153,7 +151,7 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-1 {
+   .u-section-1 {
     min-height: 98px;
   }
 
@@ -172,7 +170,7 @@
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 40px;
-}.u-section-3 {
+} .u-section-3 {
   min-height: 638px;
 }
 
@@ -412,7 +410,7 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-3 {
+   .u-section-3 {
     min-height: 513px;
   }
 
@@ -478,7 +476,7 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-3 {
+   .u-section-3 {
     min-height: 446px;
   }
 
@@ -517,7 +515,7 @@
   .u-section-3 .u-text-7 {
     font-size: 1.5rem;
   }
-}.u-section-4 {
+} .u-section-4 {
   min-height: 746px;
 }
 
@@ -729,7 +727,7 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-4 {
+   .u-section-4 {
     min-height: 749px;
   }
 
@@ -765,7 +763,7 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-4 {
+   .u-section-4 {
     min-height: 830px;
   }
 
@@ -789,7 +787,7 @@
   .u-section-4 .u-accordion-pane-3 {
     min-height: 171px;
   }
-}.u-section-5 {
+} .u-section-5 {
   min-height: 622px;
 }
 
@@ -948,7 +946,7 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-5 {
+   .u-section-5 {
     min-height: 682px;
   }
 
@@ -1036,7 +1034,7 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-5 {
+   .u-section-5 {
     min-height: 794px;
   }
 
@@ -1125,7 +1123,7 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-5 {
+   .u-section-5 {
     min-height: 1310px;
   }
 
@@ -1205,7 +1203,7 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-5 {
+   .u-section-5 {
     min-height: 1382px;
   }
 
@@ -1276,7 +1274,7 @@
     margin-right: 60px;
     margin-left: 0;
   }
-}.u-section-6 {
+} .u-section-6 {
   min-height: 622px;
 }
 
@@ -1431,7 +1429,7 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-6 {
+   .u-section-6 {
     min-height: 523px;
   }
 
@@ -1511,7 +1509,7 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-6 {
+   .u-section-6 {
     min-height: 160px;
   }
 
@@ -1598,7 +1596,7 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-6 {
+   .u-section-6 {
     min-height: 260px;
   }
 

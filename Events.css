@@ -58,8 +58,6 @@
 }
 
 
-
-
 .u-section-1 {
   min-height: 110px;
 }
@@ -84,7 +82,7 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 {
+   .u-section-1 {
     min-height: 136px;
   }
 
@@ -107,7 +105,7 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-1 {
+   .u-section-1 {
     min-height: 126px;
   }
 
@@ -132,7 +130,7 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-1 {
+   .u-section-1 {
     min-height: 106px;
   }
 
@@ -156,7 +154,7 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-1 {
+   .u-section-1 {
     min-height: 98px;
   }
 
@@ -234,7 +232,7 @@
 }
 
 .u-section-2 .u-image-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/20191216_Wired-Event-Photo.png");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/20191216_Wired-Event-Photo-96.png");
   background-position: 50% 50%;
 }
 
@@ -251,7 +249,7 @@
 }
 
 .u-section-2 .u-image-2 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/140427-9820.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/140427-9820-89.jpg");
   background-position: 82.79% 50%;
 }
 
@@ -268,7 +266,7 @@
 }
 
 .u-section-2 .u-image-3 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/120311-8341.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/120311-8341-90.jpg");
   background-position: 50% 50%;
 }
 
@@ -285,7 +283,7 @@
 }
 
 .u-section-2 .u-image-4 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/IMG_27161.jfif");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/IMG_27161-80.jfif");
   background-position: 50% 50%;
 }
 
@@ -302,7 +300,7 @@
 }
 
 .u-section-2 .u-image-5 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/744F3177.JPG");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/744F3177-79.JPG");
   background-position: 50% 50%;
 }
 
@@ -459,7 +457,7 @@
 }
 
 .u-section-2 .u-image-12 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/ocodelta20190412_0930332.jpeg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/ocodelta20190412_0930332-82.jpeg");
   background-position: 50% 50%;
 }
 
@@ -527,7 +525,7 @@
 }
 
 .u-section-2 .u-image-14 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/140427-9820.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/140427-9820-89.jpg");
   background-position: 82.79% 50%;
 }
 
@@ -544,7 +542,7 @@
 }
 
 .u-section-2 .u-image-15 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/120311-8341.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/120311-8341-90.jpg");
   background-position: 50% 50%;
 }
 
@@ -747,7 +745,7 @@
 }
 
 .u-section-2 .u-image-21 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/20191216_Wired-Event-Photo.png");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/20191216_Wired-Event-Photo-96.png");
   background-position: 50% 50%;
 }
 

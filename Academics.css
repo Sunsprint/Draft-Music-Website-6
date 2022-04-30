@@ -58,8 +58,6 @@
 }
 
 
-
-
 .u-section-1 {
   min-height: 110px;
 }
@@ -84,7 +82,7 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 {
+   .u-section-1 {
     min-height: 136px;
   }
 
@@ -100,7 +98,7 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-1 {
+   .u-section-1 {
     min-height: 126px;
   }
 
@@ -119,7 +117,7 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-1 {
+   .u-section-1 {
     min-height: 106px;
   }
 
@@ -144,7 +142,7 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-1 {
+   .u-section-1 {
     min-height: 98px;
   }
 
@@ -167,7 +165,7 @@
     margin-left: auto;
     margin-right: auto;
   }
-}.u-section-2 {
+} .u-section-2 {
   min-height: 746px;
 }
 

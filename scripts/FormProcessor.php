@@ -145,6 +145,9 @@ class FormProcessor
 
     private function _checkFieldValueFormat($field, $properties)
     {
+        if (strpos($field, ' ')) {
+            $field = str_replace(' ', '_', $field);
+        }
         $value = $this->_getFormFieldValue($field, $properties);
 
         switch($properties['type']) {

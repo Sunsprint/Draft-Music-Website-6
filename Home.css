@@ -1,5 +1,4 @@
- 
- .u-body .u-search-result-container {
+.u-body .u-search-result-container {
   position: relative;
   max-width: 200px;
   font-family: montserrat;
@@ -59,7 +58,8 @@
 }
 
 
-.u-section-1 {
+
+ .u-section-1 {
   background-image: url("np://user.desktop.nicepage.com/Site_13751995/images/er.jpg?rand=a3d9");
   background-position: 50% 50%;
   min-height: 800px;
@@ -813,6 +813,7 @@
   width: 75px;
   background-image: none;
   margin: 0 auto;
+  padding: 13px;
 }
 
 .u-section-3 .u-btn-1 {
@@ -840,6 +841,7 @@
   width: 75px;
   background-image: none;
   margin: 0 auto;
+  padding: 13px;
 }
 
 .u-section-3 .u-btn-2 {
@@ -883,6 +885,7 @@
   width: 75px;
   background-image: none;
   margin: 0 auto;
+  padding: 13px;
 }
 
 .u-section-3 .u-btn-3 {
@@ -910,6 +913,7 @@
   width: 75px;
   background-image: none;
   margin: 0 auto;
+  padding: 13px;
 }
 
 .u-section-3 .u-btn-4 {
